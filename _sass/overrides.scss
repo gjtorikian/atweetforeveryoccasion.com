@@ -46,6 +46,19 @@ ul {
     display: inline;
     line-height: 5.2rem;
   }
+
+  .contribute-link {
+    display: inline;
+    position: relative;
+    top: .5rem;
+    display: inline;
+    line-height: 3.2rem;
+    float: right;
+  }
+
+  .fb_iframe_widget span {
+    vertical-align: baseline !important;
+  }
 }
 
 blockquote.twitter-tweet {

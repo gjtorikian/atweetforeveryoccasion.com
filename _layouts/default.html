@@ -4,6 +4,15 @@
   {% include head.html %}
 
   <body>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=173651379505433";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
     <nav class="navigation">
       <section class="container">
         <div class="share-button">
@@ -12,8 +21,15 @@
           data-size="large">
         Tweet</a>
         </div>
-        <div class="contirbute-link">
-          <a href="https://github.com/gjtorikian/atweetforeveryoccasion.com/CONTRIBUTING.md">Help contribute!</a>
+        <div class="fb-share-button share-button"
+            data-href="https://atweetforeveryoccasion.com"
+            data-layout="button"
+            data-size="large"
+            data-mobile-iframe="true">
+            <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fatweetforeveryoccasion.com%2F&amp;src=sdkpreparse">Share</a>
+        </div>
+        <div class="contribute-link">
+          <a href="https://github.com/gjtorikian/atweetforeveryoccasion.com/blob/gh-pages/CONTRIBUTING.md">Help contribute!</a>
         </div>
       </section>
     </nav>
