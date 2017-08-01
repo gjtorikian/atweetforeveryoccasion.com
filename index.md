@@ -22,3 +22,13 @@ layout: default
     </div>
   </div>
 {% endfor %}
+
+<hr />
+
+<div class="container youtube">
+  <div class="row">
+    <div class="column">
+      <iframe width="177" height="100" src="https://www.youtube-nocookie.com/embed/XjDK-N1A-wI?start=247" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
