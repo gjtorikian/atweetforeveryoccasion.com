@@ -1,5 +1,4 @@
 require 'html-proofer'
-require 'tests/validate_entries'
 
 task :test do
   sh 'bundle exec jekyll build'
