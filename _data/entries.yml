@@ -1,4 +1,12 @@
 -
+  slug: no-comms-director
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Ted Cruz does not have the right &quot;temperment&quot; to be President. Look at the way he totally panicked in firing his director of comm. BAD!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/702147760926011393">February 23, 2016</a></blockquote>
+  occasions:
+    -
+      title: President Trump's new chief of staff fires his bombastic communications director 10 days after he was hired.
+      url: https://www.nytimes.com/2017/07/31/us/politics/trump-white-house-obamacare-health.html
+-
   slug: chief-of-staff
   tweet: |
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">3 Chief of Staffs in less than 3 years of being President: Part of the reason why <a href="https://twitter.com/BarackObama">@BarackObama</a> can&#39;t manage to pass his agenda.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/156829591267328000">January 10, 2012</a></blockquote>
@@ -6,14 +14,163 @@
     -
       title: Trump replaces chief of staff Reince Priebus after six-month run
       url: http://www.reuters.com/article/us-usa-trump-shakeup-idUSKBN1AD2MR
+-
+  slug: cutting-medicaid
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I was the first &amp; only potential GOP candidate to state there will be no cuts to Social Security, Medicare &amp; Medicaid. Huckabee copied me.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/596338364187602944">May 7, 2015</a></blockquote>
+  occasions:
     -
-      title: Reince Priebus was the shortest-serving White House chief of staff in American history
-      url: https://twitter.com/daveweigel/status/891041138249019393
+      title: Trump's Budget Cuts Deeply Into Medicaid
+      url: https://www.nytimes.com/2017/05/22/us/politics/trump-budget-cuts.html
+-
+  slug: lgbt-fighting
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you to the LGBT community! I will fight for you while Hillary brings in more people that will threaten your freedoms and beliefs.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/742771576039460864">June 14, 2016</a></blockquote>
+  occasions:
+    -
+      title: Trump Proposes Transgender Military Ban
+      url: http://www.thedailybeast.com/trumps-proposed-transgender-military-ban-aims-to-sever-the-t-from-lgbt
+-
+  slug: protests
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Peaceful protests are a hallmark of our democracy. Even if I don&#39;t always agree, I recognize the rights of people to express their views.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/823174199036542980">January 22, 2017</a></blockquote>
+  occasions:
+    -
+      title: Trump calls for protesters to be arrested
+      url: http://www.cnn.com/2016/03/12/politics/donald-trump-wants-protesters-arrested/index.html
 -
   slug: counsel
   tweet: |
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It is terrible that <a href="https://twitter.com/BarackObama">@BarackObama</a> did not appoint an independent counsel to investigate the national security leaks. No accountability.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/218062348097822720">June 27, 2012</a></blockquote>
   occasions:
     -
-      title: President Trump calls appointment of special counsel a ‘witch hunt’
+      title: President Trump calls appointment of special counsel a "witch hunt"
       url: http://www.pbs.org/newshour/rundown/president-trump-calls-appointment-special-counsel-witch-hunt/
+-
+  slug: just-new
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Our country is being run by total amateurs. Let’s just call it “amateur hour.”</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/391261365546930176">October 18, 2013</a></blockquote>
+  occasions:
+    -
+      title: Paul Ryan says Trump is 'just new to this'
+      url: https://www.washingtonpost.com/politics/2017/live-updates/trump-white-house/james-comey-testimony-what-we-learn/paul-ryan-on-trump-hes-just-new-to-this/?utm_term=.a7c4c694c03f
+-
+  slug: exhausted
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Obama looks exhausted and beaten. He was never made or prepared for the job. Like it or not, he doesn&#39;t have &quot;it&quot;</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/487096016982650880">July 10, 2014</a></blockquote>
+  occasions:
+    -
+      title: Donald Trump is "exhausted," his staffers say
+      url: http://www.salon.com/2017/05/22/donald-trump-is-exhausted-his-staffers-say-and-thats-why-hes-committing-some-gffes/
+-
+  slug: saudi-deals
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Saudi Arabia should fight their own wars, which they won&#39;t, or pay us an absolute fortune to protect them and their great wealth-$ trillion!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/506198852933013504">August 31, 2014</a></blockquote>
+  occasions:
+    -
+      title: $110 Billion Weapons Sale to Saudis
+      url: https://www.nytimes.com/2017/05/18/world/middleeast/jared-kushner-saudi-arabia-arms-deal-lockheed.html
+-
+  slug: saudi-scarf
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Many people are saying it was wonderful that Mrs. Obama refused to wear a scarf in Saudi Arabia, but they were insulted.We have enuf enemies</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/560839957426999297">January 29, 2015</a></blockquote>
+  occasions:
+    -
+      title: Melania and Ivanka Trump arrive in Saudi Arabia sans headscarves
+      url: http://www.cnn.com/2017/05/20/politics/melania-ivanka-headscarves/index.html
+-
+  slug: syria-missle
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The President must get Congressional approval before attacking Syria-big mistake if he does not!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/373581528405905408">August 30, 2013</a></blockquote>
+  occasions:
+    -
+      title: Trump Orders Missile Attack in Retaliation for Syrian Chemical Strikes
+      url: https://www.defense.gov/News/Article/Article/1144601/trump-orders-missile-attack-in-retaliation-for-syrian-chemical-strikes/
+-
+  slug: north-korea-missle
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We can't even stop the Norks from blasting a missile.  China is laughing at us.  It is really sad.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/278956599786213376">December 12, 2012</a></blockquote>
+  occasions:
+    -
+      title: North Korean missile test proves US is well within range
+      url: http://www.abc.net.au/news/2017-07-29/north-korea-missile-test-proves-the-us-is-well-within-range/8756472
+-
+  slug: fox-and-friends
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wow, you are all correct about <a href="https://twitter.com/FoxNews">@FoxNews</a> - totally biased and disgusting reporting.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/708045086135881728">March 10, 2016</a></blockquote>
+  occasions:
+    -
+      title: "Fox & Friends is Great!"
+      url: http://www.adweek.com/tvnewser/trump-cnn-and-msnbc-unwatchable-fox-friends-is-great/320785
+-
+  slug: friends-with-china
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So wrong! <a href="https://twitter.com/BarackObama">@BarackObama</a> is hosting China&#39;s VP Xi Jinping today at the Pentagon with a full honor ceremony with music and cannons...</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/169487192719233024">February 14, 2012</a></blockquote>
+  occasions:
+    -
+      title: Trump Hails 'Friendship' With China's Xi
+      url: https://www.bloomberg.com/news/articles/2017-04-06/trump-s-xi-summit-tests-his-promise-to-win-on-trade-north-korea
+-
+  slug: classified-info
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Crooked Hillary Clinton and her team &quot;were extremely careless in their handling of very sensitive, highly classified information.&quot; Not fit!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/750648675186147328">July 6, 2016</a></blockquote>
+  occasions:
+    -
+      title: Trump "shared classified information with Russia"
+      url: http://www.bbc.com/news/world-us-canada-39931012
+-
+  slug: popular-vote-loss
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The electoral college is a disaster for a democracy.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/266038556504494082">November 7, 2012</a></blockquote>
+  occasions:
+    -
+      title: Donald Trump has lost popular vote by greater margin than any US President
+      url: http://www.independent.co.uk/news/world/americas/us-elections/donald-trump-lost-popular-vote-hillary-clinton-us-election-president-history-a7470116.html
+-
+  slug: global-warming-hoax
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The concept of global warming was created by and for the Chinese in order to make U.S. manufacturing non-competitive.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/265895292191248385">November 6, 2012</a></blockquote>
+  occasions:
+    -
+      title: Does Donald Trump Still Think Climate Change Is a Hoax? No One Can Say
+      url: https://www.nytimes.com/2017/06/02/us/politics/climate-change-trump-hoax-scott-pruitt.html
+-
+  slug: more-troops
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Let’s get out of Afghanistan. Our troops are being killed by the Afghanis we train and we waste billions there. Nonsense!  Rebuild the USA.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/289807790178959360">January 11, 2013</a></blockquote>
+  occasions:
+    -
+      title: U.S. poised to expand military effort against Taliban in Afghanistan
+      url: https://www.washingtonpost.com/world/national-security/us-poised-to-expand-military-effort-against-taliban-in-afghanistan/2017/05/08/356c4930-33fa-11e7-b412-62beef8121f7_story.html?hpid=hp_hp-top-table-main_usafghan-0633pm:homepage/story&utm_term=.5a63bd21cf08
+-
+  slug: building-wall
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“We build too many walls and not enough bridges.” - Isaac Newton</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/387309175866290176">October 7, 2013</a></blockquote>
+  occasions:
+    -
+      title: Trump wants to build 30-foot-high wall at Mexican border
+      url: https://apnews.com/4453616f041f4ebaa49128bd6f390f1c/trump-wants-build-30-foot-high-wall-mexican-border
+-
+  slug: women
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The media is so after me on women  Wow, this is a tough business. Nobody has more respect for women than Donald Trump!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/713747213801938946">March 26, 2016</a></blockquote>
+  occasions:
+    -
+      title: Trump Was Recorded in 2005 Bragging About Grabbing Women "by the pussy"
+      url: http://www.slate.com/blogs/the_slatest/2016/10/07/donald_trump_2005_tape_i_grab_women_by_the_pussy.html
+-
+  slug: anonymous-sources
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">An &#39;extremely credible source&#39; has called my office and told me that <a href="https://twitter.com/BarackObama">@BarackObama</a>&#39;s birth certificate is a fraud.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/232572505238433794">August 6, 2012</a></blockquote>
+  occasions:
+    -
+      title: Trump has previously and vehemently rallied against the use of anonymous source
+      url: https://www.dailydot.com/layer8/trump-address-cpac-anonymous-sources/
+-
+  slug: golf
+  tweet: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Can you believe that,with all of the problems and difficulties facing the U.S., President Obama spent the day playing golf.Worse than Carter</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/521813597799067648">October 14, 2014</a></blockquote>
+  occasions:
+    -
+      title: Trump's "played golf once every 5.7 days"
+      url: https://www.washingtonpost.com/news/politics/wp/2017/07/31/trump-had-a-terrible-july-but-at-least-he-played-a-lot-of-golf/?utm_term=.724b75dbc7df

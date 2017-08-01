@@ -5,10 +5,10 @@ layout: default
 {% for entry in site.data.entries %}
   <div class="row">
     <div class="column">
-      <span class="anchor" data-anchor-id="{{ entry.slug }}"/>
+      <span class="anchor" data-anchor-id="{{ entry.slug }}"></span>
     </div>
   </div>
-  <div class="row">  
+  <div class="row" id="{{ entry.slug }}">  
     <div class="column">
       {{ entry.tweet }}
     </div>
