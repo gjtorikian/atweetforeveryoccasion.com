@@ -1,0 +1,15 @@
+language: ruby
+rvm:
+  - 2.4
+
+sudo: false
+
+cache:
+  - bundler
+
+git:
+  depth: 10
+
+script:
+  - ruby script/validate_entries.rb
+  - bundle exec rake test

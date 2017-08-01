@@ -1,0 +1,16 @@
+title: A Tweet for Every Occassion
+description: |
+  Tweets are considered official presidential statements; let's contrast 45's communication against his hypocritical actions.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://atweetforeveryoccasion.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  gjtorikian
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock

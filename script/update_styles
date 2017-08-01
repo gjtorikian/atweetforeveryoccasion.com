@@ -1,0 +1,7 @@
+#!/bin/bash
+set -e
+
+npm update
+
+cp node_modules/normalize.css/normalize.css _sass/normalize.scss
+cp node_modules/milligram/dist/milligram.css _sass/milligram.scss
