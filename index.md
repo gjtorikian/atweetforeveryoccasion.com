@@ -5,25 +5,29 @@ image: /assets/poop.png
 
 {% for entry in site.data.entries %}
   <div class="row">
-    <a class="anchor-link" id="{{ entry.slug }}"/>
+    <a class="anchor-link" name="{{ entry.slug }}" id="{{ entry.slug }}">&nbsp;</a>
     <div class="column column-narrow">
       <p class="anchor-wrapper"><a href="#{{ entry.slug }}">🔗</a></p>
     </div>
 
-    <div class="column crazy-tweet">
-      {{ entry.tweet }}
+    <div class="column crazy">
+      <a href="https://twitter.com/realDonaldTrump/status/{{ entry.id }}" class="tweet-link" target="_blank">
+      <div class="card">
+        <img class="avatar" src="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_bigger.jpg" />
+        <br />
+        {{ entry.tweet }}
+      </div>
+      </a>
     </div>
 
     <div class="column reality">
-      {% for occasion in entry.occasions %}
-        <a href="{{ occasion.url }}" class="news-link">
-        <p class="twitter-tweet">
-          <img class="avatar" src="/assets/android-icon-96x96.png" />
-          <br/>
-          {{ occasion.title }}
-        </p>
-        </a>
-      {% endfor %}
+      <a href="{{ entry.url }}" class="news-link" target="_blank">
+      <div class="card">
+        <img class="avatar" src="/assets/android-icon-96x96.png" />
+        <br />
+        {{ entry.title }}
+      </div>
+      </a>
     </div>
   </div>
 {% endfor %}

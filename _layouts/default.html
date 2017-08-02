@@ -4,30 +4,22 @@
   {% include head.html %}
 
   <body>
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=173651379505433";
-    fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-    </script>
     <main class="wrapper">
       <nav class="navigation">
         <section class="container">
           <div class="share-button">
           <a class="twitter-share-button"
-            href="https://twitter.com/intent/tweet?text=A%20Tweet%20for%20Every%20Occasion"
-            data-size="large">
-          Tweet</a>
+            target="_blank"
+            href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fwww.atweetforeveryoccasion.com%2F&ref_src=twsrc%5Etfw&text=A%20Tweet%20for%20Every%20Occasion&tw_p=tweetbutton&url=https%3A%2F%2Fwww.atweetforeveryoccasion.com%2F">
+            <img src="/assets/tweet.png" />
+          </a>
           </div>
-          <div class="fb-share-button share-button"
-              data-href="https://www.atweetforeveryoccasion.com"
-              data-layout="button"
-              data-size="large"
-              data-mobile-iframe="true">
-              <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fatweetforeveryoccasion.com%2F&amp;src=sdkpreparse">Share</a>
+          <div class="share-button">
+          <a class="fb-share-button"
+            target="_blank"
+            href="https://www.facebook.com/sharer/sharer.php?app_id=173651379505433&kid_directed_site=0&sdk=joey&u=https%3A%2F%2Fwww.atweetforeveryoccasion.com%2F&display=popup&ref=plugin&src=share_button">
+            <img src="/assets/share.png" />
+          </a>
           </div>
           <div class="contribute-link">
             <a href="https://github.com/gjtorikian/atweetforeveryoccasion.com/blob/gh-pages/CONTRIBUTING.md">Help contribute!</a>
@@ -50,8 +42,6 @@
         {{ content }}
       </section>
     </main>
-
-    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </body>
 
 </html>
