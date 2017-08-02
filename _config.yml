@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.atweetforeveryoccasion.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  gjtorikian
-
+logo: /assets/poop.png
 # Build settings
 markdown: kramdown
 gems:
@@ -16,3 +16,8 @@ exclude:
   - Gemfile.lock
   - vendor/
   - node_modules/
+
+twitter:
+  username: 4evryoccasion
+
+facebook:

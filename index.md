@@ -1,6 +1,5 @@
 ---
 layout: default
-image: /assets/poop.png
 ---
 
 {% for entry in site.data.entries %}
