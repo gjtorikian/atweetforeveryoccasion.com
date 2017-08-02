@@ -26,11 +26,9 @@ body {
 a, a:hover {
   color: #4078c0;
 
-  .anchor-link {
+  &.anchor-link {
     display: block;
     position: relative;
-    top: 7.5rem;
-    visibility: hidden;
   }
 }
 
