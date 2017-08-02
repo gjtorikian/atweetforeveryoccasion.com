@@ -34,6 +34,20 @@
   title: Trump wants to build 30-foot-high wall at Mexican border
   url: https://apnews.com/4453616f041f4ebaa49128bd6f390f1c/trump-wants-build-30-foot-high-wall-mexican-border
 -
+  slug: critics
+  tweet: |
+    With almost 1.3 million followers and rising really fast, everyone is asking me to critique things(and people). Finally, I will be a critic.
+  id: 212223068158963713
+  title: Trump says there's "nothing easier or more pathetic than being a critic"
+  url: http://www.nbcnews.com/feature/college-game-plan/trump-liberty-university-bashes-critics-first-commencement-address-n759076
+-
+  slug: saudi-scarf
+  tweet: |
+    Many people are saying it was wonderful that Mrs. Obama refused to wear a scarf in Saudi Arabia, but they were insulted.We have enuf enemies
+  id: 560839957426999297
+  title: Melania and Ivanka Trump arrive in Saudi Arabia sans headscarves
+  url: http://www.cnn.com/2017/05/20/politics/melania-ivanka-headscarves/index.html
+-
   slug: just-new
   tweet: |
     Our country is being run by total amateurs. Let’s just call it "amateur hour."
@@ -68,13 +82,6 @@
   id: 506198852933013504
   title: Here's why the Saudis love Trump
   url: http://www.motherjones.com/kevin-drum/2017/05/heres-why-saudis-love-trump/
--
-  slug: saudi-scarf
-  tweet: |
-    Many people are saying it was wonderful that Mrs. Obama refused to wear a scarf in Saudi Arabia, but they were insulted.We have enuf enemies
-  id: 560839957426999297
-  title: Melania and Ivanka Trump arrive in Saudi Arabia sans headscarves
-  url: http://www.cnn.com/2017/05/20/politics/melania-ivanka-headscarves/index.html
 -
   slug: north-korea-missle
   tweet: |
@@ -153,12 +160,12 @@
   title: Trump has previously and vehemently rallied against the use of anonymous source
   url: https://www.dailydot.com/layer8/trump-address-cpac-anonymous-sources/
 -
-  slug: critics
+  slug: failing-nyt
   tweet: |
-    With almost 1.3 million followers and rising really fast, everyone is asking me to critique things(and people). Finally, I will be a critic.
-  id: 212223068158963713
-  title: Trump says there's "nothing easier or more pathetic than being a critic"
-  url: http://www.nbcnews.com/feature/college-game-plan/trump-liberty-university-bashes-critics-first-commencement-address-n759076
+    Really disgusting that the failing New York Times allows dishonest writers to totally fabricate stories.
+  id: 689458468835569664
+  title: Trump's interview with the New York Times
+  url: https://www.nytimes.com/2017/07/19/us/politics/trump-interview-transcript.html
 -
   slug: raising-taxes
   tweet: |
