@@ -4,9 +4,10 @@ image: /assets/poop.png
 ---
 
 {% for entry in site.data.entries %}
-  <div class="row" id="{{ entry.slug }}">  
+  <div class="row">
+    <a class="anchor-link" id="{{ entry.slug }}"/>
     <div class="column column-narrow">
-      <p class="anchor-wrapper"><a class="anchor-link" href="#{{ entry.slug }}">🔗</a></p>
+      <p class="anchor-wrapper"><a href="#{{ entry.slug }}">🔗</a></p>
     </div>
 
     <div class="column crazy-tweet">

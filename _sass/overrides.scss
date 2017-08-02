@@ -29,6 +29,8 @@ a, a:hover {
   &.anchor-link {
     display: block;
     position: relative;
+    top: -5rem;
+    visibility: hidden;
   }
 }
 
