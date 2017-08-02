@@ -1,7 +1,7 @@
 Want to add your own tweet paired with a news article? Great! Thank you! Here's what you'll need to do:
 
 1. Follow the usual instructions to [clone/fork](https://help.github.com/articles/fork-a-repo/) a repository on GitHub.
-2. Open up *data/entries.yml*.
+2. Open up *_data/entries.yml*.
 3. Follow the YAML format already present in the file. There are a few key-values you'll need to add:
   * `slug`: this represents a permanent link to the tweet/article pair.
   * `tweet`: this is text of the tweet by 45.
