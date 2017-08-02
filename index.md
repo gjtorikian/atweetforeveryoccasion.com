@@ -4,22 +4,25 @@ image: /assets/poop.png
 ---
 
 {% for entry in site.data.entries %}
-  <div class="row">
-    <div class="column">
-      <span class="anchor" data-anchor-id="{{ entry.slug }}"></span>
-    </div>
-  </div>
   <div class="row" id="{{ entry.slug }}">  
-    <div class="column">
+    <div class="column column-narrow">
+      <p class="anchor-wrapper"><a class="anchor-link" href="#{{ entry.slug }}">🔗</a></p>
+    </div>
+
+    <div class="column crazy-tweet">
       {{ entry.tweet }}
     </div>
 
-    <div class="column">
-      <ul>
+    <div class="column reality">
       {% for occasion in entry.occasions %}
-        <li><a href="{{ occasion.url }}">{{ occasion.title }}</a></li>
+        <a href="{{ occasion.url }}" class="news-link">
+        <p class="twitter-tweet">
+          <img class="avatar" src="/assets/android-icon-96x96.png" />
+          <br/>
+          {{ occasion.title }}
+        </p>
+        </a>
       {% endfor %}
-      </ul>
     </div>
   </div>
 {% endfor %}

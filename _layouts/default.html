@@ -6,50 +6,49 @@
   <body>
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=173651379505433";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-
-    <nav class="navigation">
-      <section class="container">
-        <div class="share-button">
-        <a class="twitter-share-button"
-          href="https://twitter.com/intent/tweet?text=A%20Tweet%20for%20Every%20Occasion"
-          data-size="large">
-        Tweet</a>
-        </div>
-        <div class="fb-share-button share-button"
-            data-href="https://www.atweetforeveryoccasion.com"
-            data-layout="button"
-            data-size="large"
-            data-mobile-iframe="true">
-            <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fatweetforeveryoccasion.com%2F&amp;src=sdkpreparse">Share</a>
-        </div>
-        <div class="contribute-link">
-          <a href="https://github.com/gjtorikian/atweetforeveryoccasion.com/blob/gh-pages/CONTRIBUTING.md">Help contribute!</a>
-        </div>
-      </section>
-    </nav>
-
-    <main class="site">
-      <div class="container" aria-label="Content">
-        <div class="header">
-          <h1>A Tweet for Every Occasion</h1>
-        </div>
-        <div class="row">
-          <div class="column">
-            <p>
-              Given that <a href="http://www.slate.com/articles/news_and_politics/jurisprudence/2017/06/the_9th_circuit_just_decreed_that_trump_s_twitter_feed_must_be_taken_seriously.html">tweets are considered official presidential statements</a>,
-              it seems fitting to contrast 45's preferred method of communication against his hypocritical actions.
-              Many thanks to <a href="https://twitter.com/ananavarro/status/866276121427488768"><strong>@ananavarro</strong></a> for the inspiration.
-            </p>
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=173651379505433";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <main class="wrapper">
+      <nav class="navigation">
+        <section class="container">
+          <div class="share-button">
+          <a class="twitter-share-button"
+            href="https://twitter.com/intent/tweet?text=A%20Tweet%20for%20Every%20Occasion"
+            data-size="large">
+          Tweet</a>
+          </div>
+          <div class="fb-share-button share-button"
+              data-href="https://www.atweetforeveryoccasion.com"
+              data-layout="button"
+              data-size="large"
+              data-mobile-iframe="true">
+              <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fatweetforeveryoccasion.com%2F&amp;src=sdkpreparse">Share</a>
+          </div>
+          <div class="contribute-link">
+            <a href="https://github.com/gjtorikian/atweetforeveryoccasion.com/blob/gh-pages/CONTRIBUTING.md">Help contribute!</a>
+          </div>
+        </section>
+      </nav>
+      <header class="header">
+        <section class="container">
+          <h1 class="title">A Tweet for Every Occasion</h1>
+          <p class="description">
+            Given that <a href="http://www.slate.com/articles/news_and_politics/jurisprudence/2017/06/the_9th_circuit_just_decreed_that_trump_s_twitter_feed_must_be_taken_seriously.html">tweets are considered official presidential statements</a>,
+            it seems fitting to contrast 45's preferred method of communication against his hypocritical actions.
+            Many thanks to <a href="https://twitter.com/ananavarro/status/866276121427488768"><strong>@ananavarro</strong></a> for the inspiration.
+          </p>
           </div>
         </div>
+        </section>
+      </header>
+      <section class="container" >
         {{ content }}
-      </div>
+      </section>
     </main>
 
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
