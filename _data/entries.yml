@@ -52,7 +52,7 @@
   tweet: |
     Our country is being run by total amateurs. Let’s just call it "amateur hour."
   id: 391261365546930176
-  title: Paul Ryan says Trump is 'just new to this'
+  title: Paul Ryan says Trump is "just new to this"
   url: https://www.washingtonpost.com/politics/2017/live-updates/trump-white-house/james-comey-testimony-what-we-learn/paul-ryan-on-trump-hes-just-new-to-this/?utm_term=.a7c4c694c03f
 -
   slug: counsel
@@ -76,13 +76,6 @@
   title: Donald Trump is "exhausted," his staffers say
   url: http://www.salon.com/2017/05/22/donald-trump-is-exhausted-his-staffers-say-and-thats-why-hes-committing-some-gffes/
 -
-  slug: saudi-deals
-  tweet: |
-    Saudi Arabia should fight their own wars, which they won&#39;t, or pay us an absolute fortune to protect them and their great wealth-$ trillion!
-  id: 506198852933013504
-  title: Here's why the Saudis love Trump
-  url: http://www.motherjones.com/kevin-drum/2017/05/heres-why-saudis-love-trump/
--
   slug: north-korea-missle
   tweet: |
     We can't even stop the Norks from blasting a missile.  China is laughing at us.  It is really sad.
@@ -103,6 +96,13 @@
   id: 373581528405905408
   title: Trump Orders Missile Attack in Retaliation for Syrian Chemical Strikes
   url: https://www.defense.gov/News/Article/Article/1144601/trump-orders-missile-attack-in-retaliation-for-syrian-chemical-strikes/
+-
+  slug: saudi-deals
+  tweet: |
+    Saudi Arabia should fight their own wars, which they won&#39;t, or pay us an absolute fortune to protect them and their great wealth-$ trillion!
+  id: 506198852933013504
+  title: "Trump is a welcome change from Barack Obama"
+  url: http://www.motherjones.com/kevin-drum/2017/05/heres-why-saudis-love-trump/
 -
   slug: fox-and-friends
   tweet: |
