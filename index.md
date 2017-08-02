@@ -5,7 +5,7 @@ image: /assets/poop.png
 
 {% for entry in site.data.entries %}
   <div class="row">
-    <a class="anchor-link" name="{{ entry.slug }}" id="{{ entry.slug }}">&nbsp;</a>
+    <a class="anchor-link" id="{{ entry.slug }}">&nbsp;</a>
     <div class="column column-narrow">
       <p class="anchor-wrapper"><a href="#{{ entry.slug }}">🔗</a></p>
     </div>
