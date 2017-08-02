@@ -1,4 +1,4 @@
-Want to add your own tweet paired with a new article? Great! Thank you! Here's what you'll need to do:
+Want to add your own tweet paired with a news article? Great! Thank you! Here's what you'll need to do:
 
 1. Follow the usual instructions to [clone/fork](https://help.github.com/articles/fork-a-repo/) a repository on GitHub.
 2. Open up *data/entries.yml*.
