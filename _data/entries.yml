@@ -13,13 +13,6 @@
   title: Trump replaces chief of staff Reince Priebus after six-month run
   url: http://www.reuters.com/article/us-usa-trump-shakeup-idUSKBN1AD2MR
 -
-  slug: cutting-medicaid
-  tweet: |
-    I was the first &amp; only potential GOP candidate to state there will be no cuts to Social Security, Medicare &amp; Medicaid. Huckabee copied me.
-  id: 596338364187602944
-  title: Trump's Budget Cuts Deeply Into Medicaid
-  url: https://www.nytimes.com/2017/05/22/us/politics/trump-budget-cuts.html
--
   slug: lgbt-fighting
   tweet: |
     Thank you to the LGBT community! I will fight for you while Hillary brings in more people that will threaten your freedoms and beliefs.
@@ -27,12 +20,26 @@
   title: Trump Proposes Transgender Military Ban
   url: http://www.thedailybeast.com/trumps-proposed-transgender-military-ban-aims-to-sever-the-t-from-lgbt
 -
-  slug: protests
+  slug: cutting-medicaid
   tweet: |
-    Peaceful protests are a hallmark of our democracy. Even if I don&#39;t always agree, I recognize the rights of people to express their views.
-  id: 823174199036542980
-  title: Trump calls for protesters to be arrested
-  url: http://www.cnn.com/2016/03/12/politics/donald-trump-wants-protesters-arrested/index.html
+    I was the first &amp; only potential GOP candidate to state there will be no cuts to Social Security, Medicare &amp; Medicaid. Huckabee copied me.
+  id: 596338364187602944
+  title: Trump's Budget Cuts Deeply Into Medicaid
+  url: https://www.nytimes.com/2017/05/22/us/politics/trump-budget-cuts.html
+-
+  slug: building-wall
+  tweet: |
+    "We build too many walls and not enough bridges." - Isaac Newton
+  id: 387309175866290176
+  title: Trump wants to build 30-foot-high wall at Mexican border
+  url: https://apnews.com/4453616f041f4ebaa49128bd6f390f1c/trump-wants-build-30-foot-high-wall-mexican-border
+-
+  slug: just-new
+  tweet: |
+    Our country is being run by total amateurs. Let’s just call it "amateur hour."
+  id: 391261365546930176
+  title: Paul Ryan says Trump is 'just new to this'
+  url: https://www.washingtonpost.com/politics/2017/live-updates/trump-white-house/james-comey-testimony-what-we-learn/paul-ryan-on-trump-hes-just-new-to-this/?utm_term=.a7c4c694c03f
 -
   slug: counsel
   tweet: |
@@ -41,12 +48,12 @@
   title: President Trump calls appointment of special counsel a "witch hunt"
   url: http://www.pbs.org/newshour/rundown/president-trump-calls-appointment-special-counsel-witch-hunt/
 -
-  slug: just-new
+  slug: protests
   tweet: |
-    Our country is being run by total amateurs. Let’s just call it “amateur hour.”
-  id: 391261365546930176
-  title: Paul Ryan says Trump is 'just new to this'
-  url: https://www.washingtonpost.com/politics/2017/live-updates/trump-white-house/james-comey-testimony-what-we-learn/paul-ryan-on-trump-hes-just-new-to-this/?utm_term=.a7c4c694c03f
+    Peaceful protests are a hallmark of our democracy. Even if I don&#39;t always agree, I recognize the rights of people to express their views.
+  id: 823174199036542980
+  title: Trump calls for protesters to be arrested
+  url: http://www.cnn.com/2016/03/12/politics/donald-trump-wants-protesters-arrested/index.html
 -
   slug: exhausted
   tweet: |
@@ -59,8 +66,8 @@
   tweet: |
     Saudi Arabia should fight their own wars, which they won&#39;t, or pay us an absolute fortune to protect them and their great wealth-$ trillion!
   id: 506198852933013504
-  title: $110 Billion Weapons Sale to Saudis
-  url: https://www.nytimes.com/2017/05/18/world/middleeast/jared-kushner-saudi-arabia-arms-deal-lockheed.html
+  title: Here's why the Saudis love Trump
+  url: http://www.motherjones.com/kevin-drum/2017/05/heres-why-saudis-love-trump/
 -
   slug: saudi-scarf
   tweet: |
@@ -69,19 +76,26 @@
   title: Melania and Ivanka Trump arrive in Saudi Arabia sans headscarves
   url: http://www.cnn.com/2017/05/20/politics/melania-ivanka-headscarves/index.html
 -
-  slug: syria-missle
-  tweet: |
-    The President must get Congressional approval before attacking Syria-big mistake if he does not!
-  id: 373581528405905408
-  title: Trump Orders Missile Attack in Retaliation for Syrian Chemical Strikes
-  url: https://www.defense.gov/News/Article/Article/1144601/trump-orders-missile-attack-in-retaliation-for-syrian-chemical-strikes/
--
   slug: north-korea-missle
   tweet: |
     We can't even stop the Norks from blasting a missile.  China is laughing at us.  It is really sad.
   id: 278956599786213376
   title: North Korean missile test proves US is well within range
   url: http://www.abc.net.au/news/2017-07-29/north-korea-missile-test-proves-the-us-is-well-within-range/8756472
+-
+  slug: classified-info
+  tweet: |
+    Crooked Hillary Clinton and her team &quot;were extremely careless in their handling of very sensitive, highly classified information.&quot; Not fit!
+  id: 750648675186147328
+  title: Trump "shared classified information with Russia"
+  url: http://www.bbc.com/news/world-us-canada-39931012
+-
+  slug: syria-missle
+  tweet: |
+    The President must get Congressional approval before attacking Syria-big mistake if he does not!
+  id: 373581528405905408
+  title: Trump Orders Missile Attack in Retaliation for Syrian Chemical Strikes
+  url: https://www.defense.gov/News/Article/Article/1144601/trump-orders-missile-attack-in-retaliation-for-syrian-chemical-strikes/
 -
   slug: fox-and-friends
   tweet: |
@@ -97,13 +111,6 @@
   title: Trump Hails 'Friendship' With China's Xi
   url: https://www.bloomberg.com/news/articles/2017-04-06/trump-s-xi-summit-tests-his-promise-to-win-on-trade-north-korea
 -
-  slug: classified-info
-  tweet: |
-    Crooked Hillary Clinton and her team &quot;were extremely careless in their handling of very sensitive, highly classified information.&quot; Not fit!
-  id: 750648675186147328
-  title: Trump "shared classified information with Russia"
-  url: http://www.bbc.com/news/world-us-canada-39931012
--
   slug: popular-vote-loss
   tweet: |
     The electoral college is a disaster for a democracy.
@@ -111,12 +118,12 @@
   title: Donald Trump has lost popular vote by greater margin than any US President
   url: http://www.independent.co.uk/news/world/americas/us-elections/donald-trump-lost-popular-vote-hillary-clinton-us-election-president-history-a7470116.html
 -
-  slug: global-warming-hoax
+  slug: lobbyists
   tweet: |
-    The concept of global warming was created by and for the Chinese in order to make U.S. manufacturing non-competitive.
-  id: 265895292191248385
-  title: Does Donald Trump Still Think Climate Change Is a Hoax? No One Can Say
-  url: https://www.nytimes.com/2017/06/02/us/politics/climate-change-trump-hoax-scott-pruitt.html
+    Remember, politicians are all talk and NO action. Our country is a laughing stock that is going to hell. The lobbyists & donors control all!
+  id: 598328562739970048
+  title: Several lobbyists join the Trump cabinet
+  url: https://www.dailydot.com/layer8/trump-ethics-waivers-lobbyists/
 -
   slug: more-troops
   tweet: |
@@ -125,19 +132,19 @@
   title: U.S. poised to expand military effort against Taliban in Afghanistan
   url: https://www.washingtonpost.com/world/national-security/us-poised-to-expand-military-effort-against-taliban-in-afghanistan/2017/05/08/356c4930-33fa-11e7-b412-62beef8121f7_story.html?hpid=hp_hp-top-table-main_usafghan-0633pm:homepage/story&utm_term=.5a63bd21cf08
 -
-  slug: building-wall
-  tweet: |
-    “We build too many walls and not enough bridges.” - Isaac Newton
-  id: 387309175866290176
-  title: Trump wants to build 30-foot-high wall at Mexican border
-  url: https://apnews.com/4453616f041f4ebaa49128bd6f390f1c/trump-wants-build-30-foot-high-wall-mexican-border
--
   slug: women
   tweet: |
     The media is so after me on women  Wow, this is a tough business. Nobody has more respect for women than Donald Trump!
   id: 713747213801938946
-  title: Trump Was Recorded in 2005 Bragging About Grabbing Women "by the pussy"
+  title: Trump brags about grabbing women "by the pussy"
   url: http://www.slate.com/blogs/the_slatest/2016/10/07/donald_trump_2005_tape_i_grab_women_by_the_pussy.html
+-
+  slug: iran-deal
+  tweet: |
+    The deal with Iran will go down as one of the most incompetent ever made. The U.S. lost on virtually every point. We just don't win anymore!
+  id: 639265404121141248
+  title: Trump embraces Obama's Iran deal
+  url: http://time.com/4749498/donald-trump-iran-deal-flip-flop/
 -
   slug: anonymous-sources
   tweet: |
@@ -145,6 +152,13 @@
   id: 232572505238433794
   title: Trump has previously and vehemently rallied against the use of anonymous source
   url: https://www.dailydot.com/layer8/trump-address-cpac-anonymous-sources/
+-
+  slug: critics
+  tweet: |
+    With almost 1.3 million followers and rising really fast, everyone is asking me to critique things(and people). Finally, I will be a critic.
+  id: 212223068158963713
+  title: Trump says there's "nothing easier or more pathetic than being a critic"
+  url: http://www.nbcnews.com/feature/college-game-plan/trump-liberty-university-bashes-critics-first-commencement-address-n759076
 -
   slug: golf
   tweet: |
